@@ -22,6 +22,7 @@
 #include <sepol/module.h>
 #include <sepol/handle.h>
 #include <sepol/cil/cil.h>
+#include <sepol/policydb.h>
 #include <selinux/selinux.h>
 
 #include <assert.h>
